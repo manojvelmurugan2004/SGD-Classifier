@@ -65,7 +65,16 @@ print(cm)
 ```
 
 ## Output:
-![prediction of iris species using SGD Classifier](sam.png)
+![image](https://github.com/user-attachments/assets/5961f693-dbcc-4967-abdd-acd3f6e064d7)
+
+ACCURACY
+
+![image](https://github.com/user-attachments/assets/6041e366-e6a0-4477-9097-f71e9c8abf65)
+
+![image](https://github.com/user-attachments/assets/ca0b2ae5-6011-4a22-b838-d78badc1b604)
+
+
+
 
 
 ## Result:
